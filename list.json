@@ -1,0 +1,52 @@
+[
+{
+  "titel": "Fender Am Perf Strat Ahorn/Palisander Modern-C 428mm 9.5 matt",
+  "description": "Made in Corona, USA",
+  "ean": "0885978895021",
+  "media": [
+      "url-1",
+      "url-2"
+  ],
+  "offers": [
+      {
+        "shop": "thomann",
+        "logo": "thomann",
+        "link": "888-555-1212",
+        "price": 369,
+        "versand": 4
+      },
+      {
+        "shop": "musicstore",
+        "logo": "musicstore",
+        "link": "877-123-1212",
+        "price": 369,
+        "versand": 4
+      }
+    ]
+},
+{
+  "titel": "Fender Am Perf Tele Ahorn/Palisander Modern-C 428mm 9.5 matt",
+  "description": "Made in Corona, USA",
+  "ean": "0885978801909",
+  "media": [
+      "url-1",
+      "url-2"
+  ],
+  "offers": [
+      {
+        "shop": "thomann",
+        "logo": "thomann",
+        "link": "888-555-1212",
+        "price": 449,
+        "versand": 4
+      },
+      {
+        "shop": "musicstore",
+        "logo": "musicstore",
+        "link": "877-123-1212",
+        "price": 449,
+        "versand": 4
+      }
+    ]
+}
+]
